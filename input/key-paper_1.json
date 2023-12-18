@@ -1,0 +1,739 @@
+[
+	{
+		"id": "berkesSacredEcologyTraditional1999",
+		"type": "document",
+		"language": "en",
+		"title": "Sacred Ecology: Traditional Ecological Knowledge and Resource Management",
+		"author": [
+			{
+				"family": "Berkes",
+				"given": "F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "clarkeLearningTraditionalKnowledge1990",
+		"type": "article-journal",
+		"container-title": "The Contemporary Pacific",
+		"DOI": "W188486945",
+		"issue": "2",
+		"language": "en",
+		"note": "openalexid: https://openalex.org/W188486945",
+		"page": "233–253",
+		"title": "Learning from the Past: Traditional Knowledge and Sustainable Development",
+		"URL": "http://www.jstor.org/stable/23698358",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Clarke",
+				"given": "W.C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "karjalaSUSTAINABILITYLECTUALPROPERTY2012",
+		"type": "article-journal",
+		"container-title": "Jurimetrics",
+		"issue": "1",
+		"language": "cs",
+		"page": "57–70",
+		"title": "SUSTAINABILITY AND IN℡LECTUAL PROPERTY RIGHTS IN TRADITIONAL KNOWLEDGE",
+		"URL": "http://www.jstor.org/stable/24395608",
+		"volume": "53",
+		"author": [
+			{
+				"family": "Karjala",
+				"given": "D.S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "gadgilIndigenousKnowledgeBiodiversity1993",
+		"type": "article-journal",
+		"container-title": "Ambio",
+		"DOI": "W2143767744",
+		"issue": "2/3",
+		"language": "en",
+		"note": "openalexid: https://openalex.org/W2143767744\"",
+		"page": "151–156",
+		"title": "Indigenous Knowledge for Biodiversity Conservation",
+		"URL": "http://www.jstor.org/stable/4314060",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Gadgil",
+				"given": "M."
+			},
+			{
+				"family": "Berkes",
+				"given": "F."
+			},
+			{
+				"family": "Folke",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "adjeiCentreInternationalGovernance2020",
+		"type": "chapter",
+		"container-title": "UNDRIP Implementation: Comparative Approaches, Indigenous Voices from CANZUS",
+		"language": "en",
+		"page": "89–97",
+		"title": "& Centre for International Governance Innovation",
+		"URL": "http://www.jstor.org/stable/resrep24304.11",
+		"author": [
+			{
+				"family": "Adjei",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "dawsonRoleIndigenousPeoples2021",
+		"type": "article-journal",
+		"container-title": "Ecology and Society",
+		"DOI": "10.5751/ES-12625-260319",
+		"language": "en",
+		"title": "The role of Indigenous peoples and local communities in effective and equitable conservation",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Dawson",
+				"given": "N."
+			},
+			{
+				"family": "Coolsaet",
+				"given": "B."
+			},
+			{
+				"family": "Sterling",
+				"given": "E."
+			},
+			{
+				"family": "Loveridge",
+				"given": "R."
+			},
+			{
+				"family": "Gross-Camp",
+				"given": "N."
+			},
+			{
+				"family": "Wongbusarakum",
+				"given": "S."
+			},
+			{
+				"family": "Sangha",
+				"given": "K."
+			},
+			{
+				"family": "Scherl",
+				"given": "L."
+			},
+			{
+				"family": "Phan",
+				"given": "H."
+			},
+			{
+				"family": "Zafra-Calvo",
+				"given": "N."
+			},
+			{
+				"family": "Lavey",
+				"given": "W."
+			},
+			{
+				"family": "Byakagaba",
+				"given": "P."
+			},
+			{
+				"family": "Chenet",
+				"given": "A."
+			},
+			{
+				"family": "Bennett",
+				"given": "N."
+			},
+			{
+				"family": "Mansourian",
+				"given": "S."
+			},
+			{
+				"family": "Rosado",
+				"given": "F."
+			},
+			{
+				"family": "Dawson",
+				"given": "N."
+			},
+			{
+				"family": "Coolsaet",
+				"given": "B."
+			},
+			{
+				"family": "Rosado-May",
+				"given": "F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "smithBiodiversityMeansBusiness2019",
+		"type": "article-journal",
+		"container-title": "Conservation Letters",
+		"DOI": "10.1111/conl.12690",
+		"issue": "1",
+		"language": "en",
+		"page": "12690",
+		"title": "Biodiversity means business: Reframing global biodiversity goals for the private sector",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "T."
+			},
+			{
+				"family": "Beagley",
+				"given": "L."
+			},
+			{
+				"family": "Bull",
+				"given": "J."
+			},
+			{
+				"family": "Milner-Gulland",
+				"given": "E.J."
+			},
+			{
+				"family": "Smith",
+				"given": "M."
+			},
+			{
+				"family": "Vorhies",
+				"given": "F."
+			},
+			{
+				"family": "Addison",
+				"given": "E."
+			},
+			{
+				"family": "F",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "billerEconomicsBiodiversityLoss2018",
+		"type": "book",
+		"language": "en",
+		"publisher": "Copenhagen Consensus Center",
+		"title": "The Economics of Biodiversity Loss",
+		"URL": "http://www.jstor.org/stable/resrep16365",
+		"author": [
+			{
+				"family": "Biller",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "verbosIndigenousAspirationsRights2017",
+		"type": "book",
+		"language": "en",
+		"publisher": "Routledge",
+		"title": "Indigenous aspirations and rights: The case for responsible business and management",
+		"editor": [
+			{
+				"family": "Verbos",
+				"given": "A.K."
+			},
+			{
+				"family": "Henry",
+				"given": "E."
+			},
+			{
+				"family": "Peredo",
+				"given": "A.M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "horowitzIndigenousPeoplesRelationships2018",
+		"type": "article-journal",
+		"container-title": "The Extractive Industries and Society",
+		"DOI": "10.1016/j.exis.2018.05.004",
+		"issue": "3",
+		"language": "en",
+		"page": "404–414",
+		"title": "Indigenous peoples’ relationships to large-scale mining in post/colonial contexts: Toward multidisciplinary comparative perspectives",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Horowitz",
+				"given": "L.S."
+			},
+			{
+				"family": "Keeling",
+				"given": "A."
+			},
+			{
+				"family": "Lévesque",
+				"given": "F."
+			},
+			{
+				"family": "Rodon",
+				"given": "T."
+			},
+			{
+				"family": "Schott",
+				"given": "S."
+			},
+			{
+				"family": "Thériault",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "hallerFossilFuelsOil2007",
+		"type": "book",
+		"language": "en",
+		"publisher": "LIT Verlag Münster",
+		"title": "Fossil fuels, oil companies, and indigenous peoples: strategies of multinational oil companies, states, and ethnic minorities: impact on environment, livelihoods, and cultural change",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Haller",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "coriaEcotourismDevelopmentIndigenous2012",
+		"type": "article-journal",
+		"container-title": "Ecological Economics",
+		"DOI": "10.1016/j.ecolecon.2011.10.024",
+		"language": "en",
+		"page": "47–55",
+		"title": "Ecotourism and the development of indigenous communities: The good, the bad, and the ugly",
+		"volume": "73",
+		"author": [
+			{
+				"family": "Coria",
+				"given": "Jessica"
+			},
+			{
+				"family": "Calfucura",
+				"given": "Enrique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "jonesNetGainSeeking2019",
+		"type": "article-journal",
+		"container-title": "One Earth",
+		"DOI": "10.1016/j.oneear.2019.09.007",
+		"issue": "2",
+		"language": "en",
+		"page": "195–201",
+		"title": "Net gain: seeking better outcomes for local people when mitigating biodiversity loss from development",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "J.P.G."
+			},
+			{
+				"family": "Bull",
+				"given": "J.W."
+			},
+			{
+				"family": "Roe",
+				"given": "D."
+			},
+			{
+				"family": "Baker",
+				"given": "J."
+			},
+			{
+				"family": "Griffiths",
+				"given": "V.F."
+			},
+			{
+				"family": "Starkey",
+				"given": "M."
+			},
+			{
+				"family": "Sonter",
+				"given": "L.J."
+			},
+			{
+				"family": "Milner-Gulland",
+				"given": "E.J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "hersheyParadigmWarsRevisited2019",
+		"type": "article-journal",
+		"container-title": "The Indigenous Peoples’ Journal of Law, Culture &amp; Resistance",
+		"DOI": "10.5070/P651043049",
+		"ISSN": "2575-4270",
+		"issue": "1",
+		"source": "DOI.org (Crossref)",
+		"title": "'Paradigm Wars' Revisited: New Eyes on Indigenous Peoples' Resistance to Globalization",
+		"title-short": "'Paradigm Wars' Revisited",
+		"URL": "https://escholarship.org/uc/item/29c093sx",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Hershey",
+				"given": "Robert Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "edemkodzoekpeReviewEconomicInstruments2013",
+		"type": "article-journal",
+		"DOI": "10.7916/D81C1X88",
+		"note": "publisher: The Center for Digital Research and Scholarship at Columbia University",
+		"source": "DOI.org (Datacite)",
+		"title": "A Review of Economic Instruments Employed for Biodiversity Conservation",
+		"URL": "https://consiliencejournal.org/article/a-review-of-economic-instruments-employed-for-biodiversity-conservation/",
+		"author": [
+			{
+				"literal": "Edem Kodzo Ekpe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "bohenskyIndigenousKnowledgeScience2011",
+		"type": "article-journal",
+		"container-title": "Ecology and Society",
+		"DOI": "10.5751/ES-04342-160406",
+		"ISSN": "1708-3087",
+		"issue": "4",
+		"journalAbbreviation": "E&S",
+		"language": "en",
+		"page": "art6",
+		"source": "DOI.org (Crossref)",
+		"title": "Indigenous Knowledge, Science, and Resilience: What Have We Learned from a Decade of International Literature on \"Integration\"?",
+		"title-short": "Indigenous Knowledge, Science, and Resilience",
+		"URL": "http://www.ecologyandsociety.org/vol16/iss4/art6/",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Bohensky",
+				"given": "Erin L."
+			},
+			{
+				"family": "Maru",
+				"given": "Yiheyis"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "petoskyInternationalTraditionalKnowledge2020",
+		"type": "article-journal",
+		"container-title": "The Indigenous Peoples’ Journal of Law, Culture &amp; Resistance",
+		"DOI": "10.5070/P661051241",
+		"ISSN": "2575-4270",
+		"issue": "1",
+		"source": "DOI.org (Crossref)",
+		"title": "International Traditional Knowledge Protection and Indigenous Self Determination",
+		"URL": "https://escholarship.org/uc/item/7z40x9jd",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Petosky",
+				"given": "John Minode’e"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "zeppelManagingCulturalValues2010",
+		"type": "article-journal",
+		"abstract": "This article addresses the role of cultural values in sustainable tourism. It evaluates cultural conflicts between indigenous groups, recreation users and management agencies over the appropriate amenity use of protected areas in the USA, Australia and New Zealand. It assesses both social values conflicts and interpersonal conflicts between groups with different worldviews about landscapes, resource use and recreation. This article identifies six types of cross-cultural conflicts between indigenous peoples and recreation users: sacred sites/religious beliefs, resource use, land use, visitor infrastructure, recreation activity and place names. Management strategies to address cultural values in sustainable tourism and cultural conflicts over recreational use of natural areas are presented.",
+		"container-title": "Tourism and Hospitality Research",
+		"DOI": "10.1057/thr.2009.28",
+		"ISSN": "1467-3584, 1742-9692",
+		"issue": "2",
+		"journalAbbreviation": "Tourism and Hospitality Research",
+		"language": "en",
+		"page": "93-115",
+		"source": "DOI.org (Crossref)",
+		"title": "Managing Cultural Values in Sustainable Tourism: Conflicts in Protected Areas",
+		"title-short": "Managing Cultural Values in Sustainable Tourism",
+		"URL": "http://journals.sagepub.com/doi/10.1057/thr.2009.28",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Zeppel",
+				"given": "Heather"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "watsonTraditionalWisdomProtecting2011",
+		"type": "article-journal",
+		"container-title": "Ecology and Society",
+		"DOI": "10.5751/ES-04003-160136",
+		"ISSN": "1708-3087",
+		"issue": "1",
+		"journalAbbreviation": "E&S",
+		"language": "en",
+		"page": "art36",
+		"source": "DOI.org (Crossref)",
+		"title": "Traditional Wisdom: Protecting Relationships with Wilderness as a Cultural Landscape",
+		"title-short": "Traditional Wisdom",
+		"URL": "http://www.ecologyandsociety.org/vol16/iss1/art36/",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Watson",
+				"given": "Alan"
+			},
+			{
+				"family": "Matt",
+				"given": "Roian"
+			},
+			{
+				"family": "Knotek",
+				"given": "Katie"
+			},
+			{
+				"family": "Williams",
+				"given": "Daniel R."
+			},
+			{
+				"family": "Yung",
+				"given": "Laurie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "gunnENVIRONMENTALETHICSTROPHY2001",
+		"type": "article-journal",
+		"container-title": "Ethics & the Environment",
+		"DOI": "10.2979/ETE.2001.6.1.68",
+		"ISSN": "1085-6633, 1535-5306",
+		"issue": "1",
+		"journalAbbreviation": "Ethics & the Environment",
+		"language": "en",
+		"page": "68-95",
+		"source": "DOI.org (Crossref)",
+		"title": "ENVIRONMENTAL ETHICS AND TROPHY HUNTING",
+		"URL": "https://muse.jhu.edu/article/11197",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Gunn",
+				"given": "Alastair S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					3
+				]
+			]
+		}
+	}
+]
